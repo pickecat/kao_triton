@@ -1,6 +1,6 @@
 # Triton vs Kao's Toy Project
 
-Solving Kao's Toy Project crackme with [Triton DBA Framework](https://triton.quarkslab.com/). [Write-up]().
+Solving Kao's Toy Project crackme with [Triton DBA Framework](https://triton.quarkslab.com/). [Write-up](https://habrahabr.ru/company/dsec/blog/351648/).
 
 ## keygen_v1.py
 
