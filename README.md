@@ -4,7 +4,7 @@ Solving Kao's Toy Project crackme with [Triton DBA Framework](https://triton.qua
 
 ## keygen_v1.py
 
-Pure Triton version. Doesn't working due to some imperfections of the framework.
+Pure Triton version. Doesn't working due to some imperfections of the Triton framework.
 
 ## keygen_v2.py
 
